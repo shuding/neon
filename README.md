@@ -30,8 +30,8 @@
 
 - 将手机对准准心，按下「OK」，即可操控本网页
 
-推荐玩一玩 [Space Lamb](http://spacelamb.12wave.com/) 或 [Fruit Ninja](http://ucren.com/demos/fruit-ninja/)。
+推荐玩一玩 [Space Lamb](http://spacelamb.12wave.com/) 或 [Fruit Ninja](http://www.iplaysoft.com/plus/others/fruit-ninja-html5/play.html)。
 
 ## 源码
 
-完善中。
+完善中。不过本插件的原理应该是很明显的：WebSocket + HTML5 Device Orientation，有意思的是 Chrome App 可以直接当 HTTP Server，省去了安装本地应用。
